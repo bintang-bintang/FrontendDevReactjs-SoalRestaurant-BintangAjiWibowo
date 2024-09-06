@@ -10,11 +10,11 @@ react // ^18.3.1
 4. npm run dev
 
 ### Note!!
-Untuk data API terbuka ada 2 tabel yaitu ada <b>restoran</b> dan <b>makanan</b>
-restoran:
-https://66d8f5674ad2f6b8ed531569.mockapi.io/restorans/1/makanan
-makanan (id bisa diganti 1-4):
-https://66d8f5674ad2f6b8ed531569.mockapi.io/restorans/:id/makanan
+Untuk data API terbuka ada 2 tabel yaitu ada <b>restoran</b> dan <b>makanan</b> <br/>
+restoran: <br/>
+https://66d8f5674ad2f6b8ed531569.mockapi.io/restorans/1/makanan <br/>
+makanan (id bisa diganti 1-4): <br/>
+https://66d8f5674ad2f6b8ed531569.mockapi.io/restorans/:id/makanan <br/>
 
 ## React + Vite
 
