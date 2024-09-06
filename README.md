@@ -1,6 +1,6 @@
 # Soal Restaurant Sekawan
 
-node -v // v20.14.0
+node -v // v20.14.0 <br/>
 react // ^18.3.1
 
 ## Cara memulai (buka pada cmd): 
