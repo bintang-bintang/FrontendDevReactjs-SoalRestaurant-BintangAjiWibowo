@@ -1,4 +1,11 @@
 # Soal Restaurant Sekawan
+
+## Cara memulai (buka pada cmd): 
+1. git clone https://github.com/bintang-bintang/FrontendDevReactjs-SoalRestaurant-BintangAjiWibowo.git
+2. masuk pada folder tersebut
+3. npm install
+4. npm run dev
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,9 +17,3 @@ Currently, two official plugins are available:
 
 node -v // v20.14.0
 react // ^18.3.1
-
-Cara memulai (buka pada cmd): 
-1. git clone https://github.com/bintang-bintang/FrontendDevReactjs-SoalRestaurant-BintangAjiWibowo.git
-2. masuk pada folder tersebut
-3. npm install
-4. npm run dev
